@@ -1,3 +1,8 @@
+> 📦 **DÉPÔT ARCHIVÉ** — fusionné dans le monorepo **[Macos_PKdictation](https://github.com/mondary/Macos_PKdictation)**.
+> Le code vit désormais dans [`apps/pkvoice/`](https://github.com/mondary/Macos_PKdictation/tree/main/apps/pkvoice) — historique complet (34 commits) préservé.
+
+---
+
 <div align="center">
   <img src="icon.png" alt="PKvoice Icon" width="128" height="128">
 </div>
